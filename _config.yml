@@ -17,8 +17,8 @@ title: EE 693
 tagline: Wireless Networks and Internet of Things
 description: Wireless Networks and Internet of Things
 author: Haofan Cai
-baseurl: '/ee693' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/EE-693' # the subpath of your site, e.g. /blog
+url: 'https://haofan144.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Haofan Cai:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+    - 'https://haofan144.github.io/haofancai144.github.io/'
+  EE 693:
+    - 'https://manoa.hawaii.edu/catalog/courses/ee-693-alpha-special-topics-in-electrical-engineering-3/'
 footer_content:
 
 # Collections for website data
