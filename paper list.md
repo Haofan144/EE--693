@@ -62,7 +62,7 @@ description: Listing of course modules and topics.
 
 ### Wireless Sensing (Machine Learning Based)
 
-**MobiSys**{: .label .label-purple } [m3track: mmwave-based multi-user 3d posture tracking](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926), Kong, Hao, et al., in Proc. of ACM MobiSys, 2022. 
+**MobiSys**{: .label .label-purple } [m3track: mmwave-based multi-user 3d posture tracking](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926), Kong, Hao, et al., in Proc. of ACM MobiSys, 2022. **Covered**{: .label .label-yellow }
 
 **Sensys**{: .label .label-purple } [RF-net: A unified meta-learning framework for RF-enabled one-shot human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735), Shuya Ding; Zhe Chen; Tianyue Zheng; Jun Luo; in Proc. of ACM Sensys 2020. 
 
