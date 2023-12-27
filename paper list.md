@@ -34,14 +34,7 @@ description: Listing of course modules and topics.
 
 **Mobicom**{: .label .label-purple }[Intercepting Mobile Communications: The Insecurity of 802.11](https://drive.google.com/file/d/19LpXAhdIDWHFyGJtq7q5gx1brXcfFgj_/view?usp=sharing), Nikita Borisov, Ian Goldberg, David Wagner, in Proc. of ACM Mobicom 2001. 
 
- 
-## Cloud
 
-**S&P**{: .label .label-purple } [Oblix: An Efficient Oblivious Search Index](https://drive.google.com/file/d/1UVY1KUpPhoMTeyw9NejVLm8Wb3ITd7nL/view?usp=sharing), Pratyush Mishra, Rishabh Poddar, Jerry Chen, Alessandro Chiesa, Raluca Ada Popa, in Proc. of IEEE S&P, 2018.
-
-**NSDI**{: .label .label-purple } [MemC3: Compact and Concurrent MemCache with Dumber Caching and Smarter Hashing](https://drive.google.com/file/d/1NQM3IQWqluLnH8rHYu8o38G9aebo63Un/view?usp=sharings), Bin Fan, David G. Andersen, Michael Kaminsky, in NSDI 2013. 
-
-**NSDI**{: .label .label-purple } [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](https://drive.google.com/file/d/18EQky4Q7L0LSbt5hokbApHrVLKJh8R5T/view?usp=sharing), Kevin Hsieh et al., in Proc. of NSDI 2017. 
 
 ## RFID
 
@@ -51,13 +44,31 @@ description: Listing of course modules and topics.
 
 **CoNEXT**{: .label .label-purple } [FreeRider: Backscatter Communication Using Commodity Radios](https://dl.acm.org/doi/10.1145/3143361.3143374), Pengyu Zhang, et al., in Proc. of ACM CoNEXT, 2017.
 
+
+
+
 ## Connected Vehicles
 
 **ICNP**{: .label .label-purple } [A Multiple Vehicle Sensing Approach for Collision Avoidance in Progressively Deployed Vehicle Networks](https://drive.google.com/file/d/1_Vhmt5BFJxw_9hncXO3RVIzQiM4RAzH3/view?usp=sharing), Y. Gao, et al., in Proc. of IEEE ICNP 2017. 
 
-**NDSS**{: .label .label-purple } [Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control](https://drive.google.com/file/d/1bBT9lT6nzR6eiec9L62TIIQ4rtOCkM15/view?usp=sharing), Qi Alfred Chen, Yucheng Yin, Yiheng Feng, Z. Morley Mao, and Henry X. Liu Proceedings of NDSS'18
+**NDSS**{: .label .label-purple } [Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control](https://drive.google.com/file/d/1bBT9lT6nzR6eiec9L62TIIQ4rtOCkM15/view?usp=sharing), Qi Alfred Chen, Yucheng Yin, Yiheng Feng, Z. Morley Mao, and Henry X. Liu, in Proceedings of NDSS'18
+
+**Mobicom**{: .label .label-purple } [Large-scale vehicle trajectory reconstruction with camera sensing network](https://dl.acm.org/doi/pdf/10.1145/3447993.3448617), Tong, Panrong, et al, in Proc. of ACM Mobicom, 2021.
+
+
+
 
 ## IoT Applications
+
+### Wireless Sensing (Machine Learning Based)
+
+**MobiSys**{: .label .label-purple } [m3track: mmwave-based multi-user 3d posture tracking](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926), Kong, Hao, et al., in Proc. of ACM MobiSys, 2022. 
+
+**Sensys**{: .label .label-purple } [RF-net: A unified meta-learning framework for RF-enabled one-shot human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735), Shuya Ding; Zhe Chen; Tianyue Zheng; Jun Luo; in Proc. of ACM Sensys 2020. 
+
+**ICNP**{: .label .label-purple } [Machine Learning at the Network Edge for Automated Home Intrusion Monitoring](https://drive.google.com/file/d/1USCMvk6E4FiRpkcFWAHAv6N0fqthrAsI/view?usp=sharing), Aditya Dhakal, K.K. Ramakrishnan, in Proc. of IEEE ICNP 2017. 
+
+### Others
 
 **Sensys**{: .label .label-purple } [Network-wide Consensus Utilizing the Capture Effect in Low-power Wireless Networks](https://drive.google.com/file/d/1amSaLtoyBRFr2D_ak9H2ckGPXtQ9C1Gp/view?usp=sharing), Beshr Al Nahas, Simon Duquennoy, Olaf Landsiedel, in Proc. of ACM Sensys 2017. 
 
@@ -67,15 +78,8 @@ description: Listing of course modules and topics.
 
 **Sensys**{: .label .label-purple } [Secure Sharing of Partially Homomorphic Encrypted IoT Data](https://drive.google.com/file/d/1hIvwbzARVqKsUgBLP0tZNbRrXhZ69iQH/view?usp=sharing), Hossein Shafagh, Anwar Hithnawi, Lukas Burkhalter, Pascal Fischli and Simon Duquennoy,  in Proc. of ACM Sensys 2017. 
 
-**ICNP**{: .label .label-purple } [SDN-based service automation for IoT](https://drive.google.com/file/d/17UWUfjb2F3j6ZZT6Ul4izucKPWRfgavr/view?usp=sharing), Mostafa Uddin ; Sarit Mukherjee ; Hyunseok Chang ; T. V. Lakshman, in Proc. of IEEE ICNP, 2017. 
 
-**ICNP**{: .label .label-purple } [Machine Learning at the Network Edge for Automated Home Intrusion Monitoring](https://drive.google.com/file/d/1USCMvk6E4FiRpkcFWAHAv6N0fqthrAsI/view?usp=sharing), Aditya Dhakal, K.K. Ramakrishnan, in Proc. of IEEE ICNP 2017. 
 
-### Wireless Sensing (Machine Learning Based)
-
-**MobiSys**{: .label .label-purple } [m3track: mmwave-based multi-user 3d posture tracking](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926), Kong, Hao, et al., in Proc. of ACM MobiSys, 2022. 
-
-**Sensys**{: .label .label-purple } [RF-net: A unified meta-learning framework for RF-enabled one-shot human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735), Shuya Ding; Zhe Chen; Tianyue Zheng; Jun Luo; in Proc. of ACM Sensys 2020. 
 
 ## 5G
 
