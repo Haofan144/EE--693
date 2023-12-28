@@ -86,9 +86,9 @@ description: Listing of course modules and topics.
 
 **IoT Journal**{: .label .label-purple } [Fedadapt: Adaptive offloading for iot devices in federated learning](https://ieeexplore.ieee.org/abstract/document/9778210?casa_token=ZCX7-HS6wWUAAAAA:sZ_VrV4oJPGtyXSL6_g2S5znhMkaXZrR4WPOmfkUyazWM-GU1R7Nga5n7BrTokmdFFwmjpZn), Wu, Di, et al., IEEE Internet of Things Journal, 2022.
 
+**MobiCom**{: .label .label-purple } [PyramidFL: A fine-grained client selection framework for efficient federated learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf), Li, Chenning, et al., in  Proc. of ACM MobiCom. 2022.
 
-
-## 5G
+## 5G/6G
 
 **SIGCOMM**{: .label .label-purple } [Scaling Up Clustered Network Appliances with ScaleBricks](https://drive.google.com/file/d/1q6NsKt1iaOqyxomuVENsZK_UUka5F52b/view?usp=sharing), Dong Zhou et al, in  Proc. of ACM SIGCOMM 2015. 
 
