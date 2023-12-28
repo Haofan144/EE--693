@@ -9,11 +9,13 @@ description: Listing of course modules and topics.
 
 - You should submit no fewer than 15 reading reports, you may submit more but we only count the 15 reports with highest grades. 
 
-- Each report will be graded as a check- (1pt), check (1.5pt), or check+ (2pt). 
+- Each report will be graded as a check- (1pt), check (1.5pt), or check+ (2pt).
+
+- **Covered**{: .label .label-yellow } will be covered by Dr. Cai in the class, and can't be chosen for presentations. 
 
 
 
-## Wireless routing
+## Wireless routing 
 
 **Sensys**{: .label .label-purple } [Collection Tree Protocol](https://drive.google.com/file/d/1lE4w6TdNJOU7_-0ZMznsa47vE2zaN5sx/view?usp=sharing), Omprakash Gnawali, Rodrigo Fonseca, Kyle Jamieson, David Moss, and Philip Levis, in Proc. of ACM Sensys 2009.
 
@@ -39,7 +41,7 @@ description: Listing of course modules and topics.
 
 ## RFID
 
-**Ubicomp**{: .label .label-purple } [Echoscope: Verifiable Smart Packaging with Passive RFID](https://drive.google.com/file/d/1zeQ8Eo7w4OpRLlOmoDawe37ZkLGztws5/view?usp=sharing), Ge Wang, et al, in Proc of ACM Ubicomp 2016.
+**Ubicomp**{: .label .label-purple } [Echoscope: Verifiable Smart Packaging with Passive RFID](https://drive.google.com/file/d/1zeQ8Eo7w4OpRLlOmoDawe37ZkLGztws5/view?usp=sharing), Ge Wang, et al, in Proc of ACM Ubicomp 2016. **Covered**{: .label .label-yellow }
 
 **INFOCOM**{: .label .label-purple } [Efficient Information Collection Protocols for Sensor-augmented RFID Networks](https://drive.google.com/file/d/1b0VTHx9HzKa9y4T12-xk5lTZwvyVBwAb/view?usp=sharing), Shigang Chen et al., in Proc. of IEEE INFOCOM 2011. 
 
@@ -65,7 +67,7 @@ description: Listing of course modules and topics.
 
 **MobiSys**{: .label .label-purple } [m3track: mmwave-based multi-user 3d posture tracking](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926), Kong, Hao, et al., in Proc. of ACM MobiSys, 2022. **Covered**{: .label .label-yellow }
 
-**Sensys**{: .label .label-purple } [RF-net: A unified meta-learning framework for RF-enabled one-shot human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735), Shuya Ding; Zhe Chen; Tianyue Zheng; Jun Luo; in Proc. of ACM Sensys 2020. 
+**Sensys**{: .label .label-purple } [RF-net: A unified meta-learning framework for RF-enabled one-shot human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735), Shuya Ding; Zhe Chen; Tianyue Zheng; Jun Luo; in Proc. of ACM Sensys 2020. **Covered**{: .label .label-yellow }
 
 **ICNP**{: .label .label-purple } [Machine Learning at the Network Edge for Automated Home Intrusion Monitoring](https://drive.google.com/file/d/1USCMvk6E4FiRpkcFWAHAv6N0fqthrAsI/view?usp=sharing), Aditya Dhakal, K.K. Ramakrishnan, in Proc. of IEEE ICNP 2017. 
 
