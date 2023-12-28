@@ -7,9 +7,9 @@ Date
   : Materials
 
 Apri 1
-: **Lecture**{: .label .label-purple }[5G](#)
+: **Lecture**{: .label .label-purple }[Federated Learning](#)
   : [Slides](#)
 
 Apri 3
-: **Lecture**{: .label .label-purple }[5G](#)
+: **Lecture**{: .label .label-purple }[Federated Learning](#)
   : [Slides](#)
