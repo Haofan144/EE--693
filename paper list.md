@@ -82,6 +82,11 @@ description: Listing of course modules and topics.
 
 
 
+## Federated Learning 
+
+**IoT Journal**{: .label .label-purple } [Fedadapt: Adaptive offloading for iot devices in federated learning](https://ieeexplore.ieee.org/abstract/document/9778210?casa_token=ZCX7-HS6wWUAAAAA:sZ_VrV4oJPGtyXSL6_g2S5znhMkaXZrR4WPOmfkUyazWM-GU1R7Nga5n7BrTokmdFFwmjpZn), Wu, Di, et al., IEEE Internet of Things Journal, 2022.
+
+
 
 ## 5G
 
