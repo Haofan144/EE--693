@@ -12,8 +12,5 @@ Jan 22
   
 Jan 24
 : **Lecture**{: .label .label-purple }[Sensor data collection and aggregation](#)
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/12CcuVKQvMgz-EDead197ewRt8SaNG0EE97yVyMD9DVY/edit?usp=sharing)
 
-Jan 24
-: **Lecture**{: .label .label-purple }[Routing for wireless networks](#)
-  : [Slides](#)
