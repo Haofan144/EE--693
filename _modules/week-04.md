@@ -12,4 +12,4 @@ Jan 29
 
 Jan 31
 : **Lecture**{: .label .label-purple }[Wireless security](#)
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1s6yCx8fOCENIABZvhitAH8GjLjirDYpgN_sT6pfigVo/edit?usp=sharing)
