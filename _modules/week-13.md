@@ -11,5 +11,5 @@ Apri 1
   : [TBD](#)
 
 Apri 3
-: **Lecture**{: .label .label-purple }[Federated Learning](#)
+: **TBD**{: .label .label-orange }[Federated Learning](#)
   : [TBD](#)
