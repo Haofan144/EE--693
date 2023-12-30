@@ -7,8 +7,8 @@ Date
   : Materials
 
 Jan 15
-: **Lecture**{: .label .label-purple }[Wireless network basis](#)
-  : [Slides](https://docs.google.com/presentation/d/1TFPMWzLnNCqiHpbyUjVbtXQ-OpjzikCulDrnZ9yzGXU/edit?usp=sharing)
+: **Lecture**{: .label .label-yellow}[Non-instructional day](#)
+  : NA
 
 Jan 17
 : **Lecture**{: .label .label-purple }[Wireless network basis](#)
