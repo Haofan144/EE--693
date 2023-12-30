@@ -2,8 +2,6 @@
 title: Week 8
 ---
 
-Basic Data Structures
-
 Date
 : Topic
   : Materials
