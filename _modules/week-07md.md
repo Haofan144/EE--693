@@ -7,7 +7,7 @@ Date
   : Materials
 
 Feb 19
-: **Presentation**{: .label .label-green }[Cloud/Wifi](#)
+: **Holiday**{: .label .label-green }[Non-instructional day](#)
   : [Paper](../paper%20list/## WiFi)
 
 Feb 21
