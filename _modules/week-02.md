@@ -7,7 +7,7 @@ Date
   : Materials
 
 Jan 15
-: **Lecture**{: .label .label-yellow}[Non-instructional day](#)
+: **HOLIDAY**{: .label .label-yellow}[Non-instructional day](#)
   : NA
 
 Jan 17
