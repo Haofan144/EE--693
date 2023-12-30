@@ -8,8 +8,8 @@ Date
 
 Apri 1
 : **Lecture**{: .label .label-purple }[Federated Learning](#)
-  : [Slides](#)
+  : [TBD](#)
 
 Apri 3
 : **Lecture**{: .label .label-purple }[Federated Learning](#)
-  : [Slides](#)
+  : [TBD](#)
