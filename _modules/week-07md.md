@@ -7,7 +7,7 @@ Date
   : Materials
 
 Feb 19
-: **Holiday**{: .label .label-green }[Non-instructional day](#)
+: **Holiday**{: .label .label-yellow}[Non-instructional day](#)
   : [Paper](../paper%20list/## WiFi)
 
 Feb 21
