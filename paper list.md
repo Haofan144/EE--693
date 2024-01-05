@@ -48,11 +48,14 @@ description: Listing of course modules and topics.
 
 
 
-
-
-
-
 ## IoT Applications
+
+### Wireless Localization
+
+**NSDI**{: .label .label-purple }[Decimeter-Level localization with a single {WiFi} access point](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf)  Vasisht, Deepak, Swarun Kumar, and Dina Katabi, in Proc. of ACM NSDI, 2016.  **Covered**{: .label .label-yellow }
+
+**Ubicomp**{: .label .label-purple } [Dynamic-MUSIC: Accurate device-free indoor localization](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4391&context=sis_research)  Li, Xiang, et al., in Proc. of ACM Ubicomp, 2016.
+
 
 ### Wireless Sensing (Machine Learning Based)
 
