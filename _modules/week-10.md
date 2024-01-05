@@ -7,8 +7,8 @@ Date
   : Materials
 
 March 11
-: **Presentation**{: .label .label-green }[RFID and LoRa](#)
-  : [Paper](../paper%20list/## RFID)
+: **Lecture**{: .label .label-purple }[IoT](#)
+  : [Slides](#)
 
 March 13
 : **Lecture**{: .label .label-purple }[IoT](#)
