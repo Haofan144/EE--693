@@ -49,14 +49,6 @@ description: Listing of course modules and topics.
 
 
 
-## Connected Vehicles
-
-**ICNP**{: .label .label-purple } [A Multiple Vehicle Sensing Approach for Collision Avoidance in Progressively Deployed Vehicle Networks](https://drive.google.com/file/d/1_Vhmt5BFJxw_9hncXO3RVIzQiM4RAzH3/view?usp=sharing), Y. Gao, et al., in Proc. of IEEE ICNP 2017. 
-
-**NDSS**{: .label .label-purple } [Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control](https://drive.google.com/file/d/1bBT9lT6nzR6eiec9L62TIIQ4rtOCkM15/view?usp=sharing), Qi Alfred Chen, Yucheng Yin, Yiheng Feng, Z. Morley Mao, and Henry X. Liu, in Proceedings of NDSS'18
-
-**Mobicom**{: .label .label-purple } [Large-scale vehicle trajectory reconstruction with camera sensing network](https://dl.acm.org/doi/pdf/10.1145/3447993.3448617), Tong, Panrong, et al, in Proc. of ACM Mobicom, 2021.
-
 
 
 
@@ -69,6 +61,17 @@ description: Listing of course modules and topics.
 **Sensys**{: .label .label-purple } [RF-net: A unified meta-learning framework for RF-enabled one-shot human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735), Shuya Ding; Zhe Chen; Tianyue Zheng; Jun Luo; in Proc. of ACM Sensys 2020. **Covered**{: .label .label-yellow }
 
 **ICNP**{: .label .label-purple } [Machine Learning at the Network Edge for Automated Home Intrusion Monitoring](https://drive.google.com/file/d/1USCMvk6E4FiRpkcFWAHAv6N0fqthrAsI/view?usp=sharing), Aditya Dhakal, K.K. Ramakrishnan, in Proc. of IEEE ICNP 2017. 
+
+
+
+### Connected Vehicles
+
+**ICNP**{: .label .label-purple } [A Multiple Vehicle Sensing Approach for Collision Avoidance in Progressively Deployed Vehicle Networks](https://drive.google.com/file/d/1_Vhmt5BFJxw_9hncXO3RVIzQiM4RAzH3/view?usp=sharing), Y. Gao, et al., in Proc. of IEEE ICNP 2017. 
+
+**NDSS**{: .label .label-purple } [Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control](https://drive.google.com/file/d/1bBT9lT6nzR6eiec9L62TIIQ4rtOCkM15/view?usp=sharing), Qi Alfred Chen, Yucheng Yin, Yiheng Feng, Z. Morley Mao, and Henry X. Liu, in Proceedings of NDSS'18
+
+**Mobicom**{: .label .label-purple } [Large-scale vehicle trajectory reconstruction with camera sensing network](https://dl.acm.org/doi/pdf/10.1145/3447993.3448617), Tong, Panrong, et al, in Proc. of ACM Mobicom, 2021.
+
 
 ### Others
 
