@@ -7,9 +7,9 @@ Date
   : Materials
 
 March 18
-: **Lecture**{: .label .label-purple }[IoT](#)
+: **Presentation**{: .label .label-green }[IoT](#)
   : [Slides](#)
 
 March 20
-: **Lecture**{: .label .label-purple }[IoT](#)
+: **Presentation**{: .label .label-green }[IoT](#)
   : [Slides](#)
