@@ -82,7 +82,7 @@ The project milestones and rough timeline are as follows:
 
 - Final Report: April 24
 
-More details about presentation can be found in [Course Project](../Project) 
+More details about project can be found in [Course Project](../Project) 
 
 ## Participation
 
