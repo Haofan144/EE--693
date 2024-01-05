@@ -11,5 +11,5 @@ Feb 12
   : [Papers](../paper%20list/## WiFi)
 
 Feb 14
-: **TBD**{: .label .label-purple }[WiFi](#)
+: **TBD**{: .label .label-blue }[WiFi](#)
   : TBD
