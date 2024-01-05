@@ -18,7 +18,7 @@ description: Listing of course modules and topics.
 
 **Sensys**{: .label .label-purple } [Collection Tree Protocol](https://drive.google.com/file/d/1lE4w6TdNJOU7_-0ZMznsa47vE2zaN5sx/view?usp=sharing), Omprakash Gnawali, Rodrigo Fonseca, Kyle Jamieson, David Moss, and Philip Levis, in Proc. of ACM Sensys 2009.
 
-**Mobicom**{: .label .label-purple }  [GPSR: Greedy Perimeter Stateless Routing for Wireless Networks](https://drive.google.com/file/d/139YQJ6YxIn_dDxdhYczZ3-DZm_gqhsoW/view?usp=sharing), Karp and Kung, in Proc. of ACM Mobicom 2000.
+**Mobicom**{: .label .label-purple }  [GPSR: Greedy Perimeter Stateless Routing for Wireless Networks](https://drive.google.com/file/d/139YQJ6YxIn_dDxdhYczZ3-DZm_gqhsoW/view?usp=sharing), Karp and Kung, in Proc. of ACM Mobicom 2000.  **Covered**{: .label .label-yellow }
 
  
 
@@ -40,9 +40,7 @@ description: Listing of course modules and topics.
 
 ## RFIDs & Backscatter
 
-**Ubicomp**{: .label .label-purple } [Echoscope: Verifiable Smart Packaging with Passive RFID](https://drive.google.com/file/d/1zeQ8Eo7w4OpRLlOmoDawe37ZkLGztws5/view?usp=sharing), Ge Wang, et al, in Proc of ACM Ubicomp 2016. **Covered**{: .label .label-yellow }
-
-**INFOCOM**{: .label .label-purple } [Efficient Information Collection Protocols for Sensor-augmented RFID Networks](https://drive.google.com/file/d/1b0VTHx9HzKa9y4T12-xk5lTZwvyVBwAb/view?usp=sharing), Shigang Chen et al., in Proc. of IEEE INFOCOM 2011. 
+**Ubicomp**{: .label .label-purple } [Echoscope: Verifiable Smart Packaging with Passive RFID](https://drive.google.com/file/d/1zeQ8Eo7w4OpRLlOmoDawe37ZkLGztws5/view?usp=sharing), Ge Wang, et al, in Proc of ACM Ubicomp 2016.
 
 **CoNEXT**{: .label .label-purple } [FreeRider: Backscatter Communication Using Commodity Radios](https://dl.acm.org/doi/10.1145/3143361.3143374), Pengyu Zhang, et al., in Proc. of ACM CoNEXT, 2017.
 
