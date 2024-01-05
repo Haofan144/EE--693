@@ -51,3 +51,25 @@ Krishnamurthy Raghunandan, [Introduction to Wireless Communications and Networks
 - Each report will be graded as a check- (1pt), check (1.5pt), or check+ (2pt).
 
 - You may submit more but we only count the 15 reports with highest grades.
+
+## Reading Reports
+
+Each lecture will have one or two assigned readings, which we will all read prior to the class. All students are expected to have thoroughly read the paper, and come to class ready to discuss them in detail. This is essential to get the most out of the class!
+
+Submit hard copy of your reading reports before every paper presentation. Eg: We will talk about Sensor data collection and aggregation on week 3, if you want to write a review for “Sparse Data Aggregation in Sensor Networks”, you should submit it before the class 
+
+## In-class Presentation
+
+Each student will also be assigned one paper to present to the class during the semester. The presentation should roughly be 45 minutes. Keep the following questions in mind to help you structure your presentation:
+
+- What problem is the paper solving and why is it important?
+
+- What is the main idea of the paper?
+
+- How does the paper differ from previous work?
+
+- Are there any flaws in the paper? How would you improve the paper or build on it in future work?
+
+## Participation
+
+We expect you to attend all lectures, unless there are pressing or unforeseen conflicts. Conflicts that are persistent (e.g., registering for another class at the same time and “splitting” attendance between them) are not excused.
