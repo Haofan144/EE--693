@@ -11,5 +11,5 @@ Feb 26
   : [Slides](#)
 
 Feb 28
-: **Lecture**{: .label .label-purple }[Lora](#)
+: **Presentation**{: .label .label-green }[RFID](#)
   : [Slides](#)
