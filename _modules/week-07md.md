@@ -11,5 +11,5 @@ Feb 19
   : NA
 
 Feb 21
-: **Presentation**{: .label .label-green }[Cloud/Wifi](#)
-  : [Paper](../paper%20list/## Cloud)
+: **TDB**{: .label .label-blue }[TBD](#)
+  : NA
