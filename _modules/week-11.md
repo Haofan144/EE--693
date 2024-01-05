@@ -7,9 +7,9 @@ Date
   : Materials
 
 March 18
-: **Presentation**{: .label .label-green }[IoT](#)
+: **Presentation**{: .label .label-green }[IoT](#IoT)
   : [Paper](../paper%20list/## RFID)
 
 March 20
-: **Presentation**{: .label .label-green }[IoT](#)
+: **Presentation**{: .label .label-green }[IoT](#IoT)
   : [Paper](../paper%20list/## RFID)
