@@ -69,8 +69,6 @@ description: Listing of course modules and topics.
 
 **ICNP**{: .label .label-purple } [A Multiple Vehicle Sensing Approach for Collision Avoidance in Progressively Deployed Vehicle Networks](https://drive.google.com/file/d/1_Vhmt5BFJxw_9hncXO3RVIzQiM4RAzH3/view?usp=sharing), Y. Gao, et al., in Proc. of IEEE ICNP 2017. 
 
-**NDSS**{: .label .label-purple } [Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control](https://drive.google.com/file/d/1bBT9lT6nzR6eiec9L62TIIQ4rtOCkM15/view?usp=sharing), Qi Alfred Chen, Yucheng Yin, Yiheng Feng, Z. Morley Mao, and Henry X. Liu, in Proceedings of NDSS'18
-
 **Mobicom**{: .label .label-purple } [Large-scale vehicle trajectory reconstruction with camera sensing network](https://dl.acm.org/doi/pdf/10.1145/3447993.3448617), Tong, Panrong, et al, in Proc. of ACM Mobicom, 2021.
 
 
