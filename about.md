@@ -70,7 +70,19 @@ Each student will also be assigned one paper to present to the class during the 
 
 - Are there any flaws in the paper? How would you improve the paper or build on it in future work?
 
-  More details about presentation can be found in [In-class presentation](../reading%20reports)
+More details about presentation can be found in [In-class presentation](../reading%20reports)
+
+## Course Project
+
+The research project is a core component of the course. It is OK (and often a good idea) to work on a class project that complements your ongoing research provided it is relevant to the course. Talk to Dr. Cai if you're not sure whether this would work.
+
+The project milestones and rough timeline are as follows:
+
+- Proposal (1 page): March 6
+
+- Final Report: April 24
+
+More details about presentation can be found in [Course Project](../Project) 
 
 ## Participation
 
