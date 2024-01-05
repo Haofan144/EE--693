@@ -10,7 +10,7 @@ description: Listing of course modules and topics.
 
 - Each report will be graded as a check- (1pt), check (1.5pt), or check+ (2pt).
 
-- **Covered**{: .label .label-yellow } will be covered by Dr. Cai in the class, and can't be chosen for presentations. 
+- **Covered**{: .label .label-yellow } will be covered by Dr. Cai in the class, and can't be chosen for presentations, but can be used for reading reports.  
 
 
 
