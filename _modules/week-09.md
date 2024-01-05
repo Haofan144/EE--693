@@ -7,7 +7,7 @@ Date
   : Materials
 
 March 4
-: **Exam**{: .label .label-yellow }[Midterm Exam](#)
+: **Exam**{: .label .label-yellow }[Midterm Exam](#), **Proposal**{: .label .label-yellow }[Project Proposal DDL](#)
   : [Slides](#)
 
 March 6
