@@ -38,7 +38,7 @@ description: Listing of course modules and topics.
 
 
 
-## RFID
+## RFIDs and Backscatter
 
 **Ubicomp**{: .label .label-purple } [Echoscope: Verifiable Smart Packaging with Passive RFID](https://drive.google.com/file/d/1zeQ8Eo7w4OpRLlOmoDawe37ZkLGztws5/view?usp=sharing), Ge Wang, et al, in Proc of ACM Ubicomp 2016. **Covered**{: .label .label-yellow }
 
