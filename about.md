@@ -70,6 +70,8 @@ Each student will also be assigned one paper to present to the class during the 
 
 - Are there any flaws in the paper? How would you improve the paper or build on it in future work?
 
+  More details about presentation can be found in [In-class presentation](../reading%20reports)
+
 ## Participation
 
 We expect you to attend all lectures, unless there are pressing or unforeseen conflicts. Conflicts that are persistent (e.g., registering for another class at the same time and “splitting” attendance between them) are not excused.
