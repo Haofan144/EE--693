@@ -8,8 +8,8 @@ Date
 
 March 18
 : **Presentation**{: .label .label-green }[IoT](#)
-  : [Slides](#)
+  : [Paper](../paper%20list/## RFID)
 
 March 20
 : **Presentation**{: .label .label-green }[IoT](#)
-  : [Slides](#)
+  : [Paper](../paper%20list/## RFID)
