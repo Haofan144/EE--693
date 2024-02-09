@@ -45,6 +45,14 @@ description: Listing of course modules and topics.
 **CoNEXT**{: .label .label-purple } [FreeRider: Backscatter Communication Using Commodity Radios](https://dl.acm.org/doi/10.1145/3143361.3143374), Pengyu Zhang, et al., in Proc. of ACM CoNEXT, 2017.
 
 
+## Security 
+
+**CCS**{: .label .label-purple } [Instant and Robust Authentication and Key Agreement among Mobile Devices](https://drive.google.com/file/d/1zeQ8Eo7w4OpRLlOmoDawe37ZkLGztws5/view?usp=sharing](https://dl.acm.org/doi/10.1145/2976749.2978298), Wei Xi, et al, in Proc of ACM CCS 2016.
+
+**ToN**{: .label .label-purple } [Scalable Industry Data Access Control in RFID-Enabled Supply Chain](https://ieeexplore.ieee.org/document/7442163), Saiyu Qi, et al., in Trans. of IEEE/ACM ToN, 2016.
+
+**SP**{: .label .label-purple } [Ciphertext-Policy Attribute-Based Encryption](https://ieeexplore.ieee.org/document/4223236), John Bethencourt, et al., in Trans. of IEEE S&P, 2007.
+
 
 ## IoT Applications
 
