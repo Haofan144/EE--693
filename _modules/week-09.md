@@ -12,4 +12,4 @@ March 4
 
 March 6
 : **Presentation**{: .label .label-green }[Sumit Chowdhury](#)
-  : [Through-Wall Human Pose Estimation Using Radio Signals]
+  : Through-Wall Human Pose Estimation Using Radio Signals
