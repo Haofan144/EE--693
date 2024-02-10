@@ -11,5 +11,5 @@ Feb 5
   : [Slides](https://docs.google.com/presentation/d/1syUiVg95DtIeZzGuIw4COs0rMkb3g9-AkiJQGvP0OQE/edit?usp=sharing)
 
 Feb 7
-: **Lecture**{: .label .label-purple }[RFID Reasearch](#)
+: **Lecture**{: .label .label-purple }[RFID](#)
   : [Slides](#)
