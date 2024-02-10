@@ -7,9 +7,9 @@ Date
   : Materials
 
 March 11
-: **Lecture**{: .label .label-purple }[IoT](#)
-  : [Slides](#)
+: **Presentation**{: .label .label-green}[Osiel Montoya](#)
+  : Machine Learning at the Network Edge for Automated Home Intrusion Monitoring
 
 March 13
-: **Lecture**{: .label .label-purple }[IoT](#)
-  : [Slides](#)
+: **Presentation**{: .label .label-green}[Jamilyn Mooteb](#)
+  : Dynamic-MUSIC: Accurate device-free indoor localization
