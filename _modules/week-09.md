@@ -11,5 +11,5 @@ March 4
   : [Slides](#)
 
 March 6
-: **Presentation**{: .label .label-green }[RFID and LoRa](#)
-  : [Paper](../paper%20list/## RFID)
+: **Presentation**{: .label .label-green }[Sumit Chowdhury](#)
+  : [Through-Wall Human Pose Estimation Using Radio Signals]
