@@ -7,12 +7,10 @@ Date
   : Materials
 
 Jan 22
-: **Lecture**{: .label .label-purple }[Wireless network basis](#)
-  : [Slides](https://docs.google.com/presentation/d/1TFPMWzLnNCqiHpbyUjVbtXQ-OpjzikCulDrnZ9yzGXU/edit?usp=sharing)
+: **Lecture**{: .label .label-purple }[Sensor data collection and aggregation](#)
+  : [Slides](https://docs.google.com/presentation/d/12CcuVKQvMgz-EDead197ewRt8SaNG0EE97yVyMD9DVY/edit?usp=sharing)
   
 Jan 24
-: **Lecture**{: .label .label-purple }[Wireless sensor network](#)
-  : [Slides](https://docs.google.com/presentation/d/1nFjM_2fwuloz63Q7FvNZmZm8Q6K2MRBr-fjRYk57EkE/edit?usp=sharing)
-  
-
+: **Lecture**{: .label .label-purple }[Routing for wireless networks](#)
+  : [Slides](https://docs.google.com/presentation/d/1zDYm9mfYuVuG3W1Aw4EKnvoovpADYw3Pw11i5tNtepQ/edit?usp=sharing)
 
