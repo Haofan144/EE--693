@@ -54,6 +54,12 @@ description: Listing of course modules and topics.
 **SP**{: .label .label-purple } [Ciphertext-Policy Attribute-Based Encryption](https://ieeexplore.ieee.org/document/4223236), John Bethencourt, et al., in Trans. of IEEE S&P, 2007.
 
 
+## mmWave  
+
+**Mobicom**{: .label .label-purple } [Towards Generalized mmWave-based Human Pose
+Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3613302), Hongfei Xue, et al, in Proc of ACM Mobicom 2023.
+
+
 ## IoT Applications
 
 ### Wireless Localization
