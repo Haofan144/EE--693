@@ -59,6 +59,9 @@ description: Listing of course modules and topics.
 **Mobicom**{: .label .label-purple } [Towards Generalized mmWave-based Human Pose
 Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3613302), Hongfei Xue, et al, in Proc of ACM Mobicom 2023.
 
+**AAAI**{: .label .label-purple } [Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing](https://ojs.aaai.org/index.php/AAAI/article/view/5430), Zhen Meng, et al, in Proc of AAAI 2020.
+
+
 
 ## IoT Applications
 
