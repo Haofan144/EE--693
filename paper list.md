@@ -61,6 +61,7 @@ Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3
 
 **AAAI**{: .label .label-purple } [Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing](https://ojs.aaai.org/index.php/AAAI/article/view/5430), Zhen Meng, et al, in Proc of AAAI 2020.
 
+**Journal**{: .label .label-purple}[Applying Blockchain Technology for User Incentivization in mmWave-Based Mesh Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9026789), RUSTAM PIRMAGOMEDOV, et al, in IEEE Access, 2020. 
 
 
 ## IoT Applications
