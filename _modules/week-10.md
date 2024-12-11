@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-March 11
-: **Presentation**{: .label .label-green}[Osiel Montoya](#)
-  : Machine Learning at the Network Edge for Automated Home Intrusion Monitoring
+March 17
+: **TDB**{: .label .label-blue }[TBD](#)
+  : NA
 
-March 13
-: **Presentation**{: .label .label-green}[Jamilyn Mooteb](#)
-  : Dynamic-MUSIC: Accurate device-free indoor localization
+March 19
+: **TDB**{: .label .label-blue }[TBD](#)
+  : NA
