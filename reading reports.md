@@ -24,4 +24,4 @@ Bring a copy of the paper in each lecture with your notes about what you find in
 Here're some good samples for reading report: [Sample 1](https://drive.google.com/file/d/1T_DV2j0O6f-L8_SdKeU5Jl-3JU67mi3l/view?usp=sharing), [Sample 2](https://drive.google.com/file/d/1WfCSUwk4kfy7Z5pxV3XUJDjW8OtcADIB/view?usp=sharing). 
 
 ## Presentation:
-Please submit your presentation preference by **Jan 22, 2025**, including at least 6 papers from the paper list, ordered by your preference with the 1st to be the most preferred. 
+Please submit your presentation preference by **Jan 29, 2025**, including at least 6 papers from the paper list, ordered by your preference with the 1st to be the most preferred. 
