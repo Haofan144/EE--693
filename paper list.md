@@ -102,7 +102,11 @@ Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3
 
 **Sensys**{: .label .label-purple } [Secure Sharing of Partially Homomorphic Encrypted IoT Data](https://drive.google.com/file/d/1hIvwbzARVqKsUgBLP0tZNbRrXhZ69iQH/view?usp=sharing), Hossein Shafagh, Anwar Hithnawi, Lukas Burkhalter, Pascal Fischli and Simon Duquennoy,  in Proc. of ACM Sensys 2017. 
 
+## LLMs and Mobile AI
 
+**MobiCom**{: .label .label-purple } [AutoDroid: LLM-powered Task Automation in Android](https://drive.google.com/file/d/1bkkWn07pDRRp16IHfxA5xnV8zdTd390g/view?usp=sharing), H, Wen, et al., in  Proc. of ACM MobiCom. 2024.
+
+**Sensys**{: .label .label-purple } [Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition](https://drive.google.com/file/d/1p97kVL2VI2D3uucQ4hA9PyM-6jskRroX/view?usp=sharing), Y, Weng, et al., in  Proc. of ACM Sensys. 2024.
 
 ## Federated Learning 
 
