@@ -6,11 +6,11 @@ Date
 : Topic
   : Materials
 
-Jan 8
+Jan 13
 : **Lecture**{: .label .label-purple }[Introduction](#)
   : [Slides](#)
 
-Jan 10
+Jan 15
 : **Lecture**{: .label .label-purple }[Wireless network basis](#)
   : [Slides](#)
 
