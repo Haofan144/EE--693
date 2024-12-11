@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-Feb 26
+March 3
 : **Lecture**{: .label .label-purple }[RFID](#)
   : [Slides](#)
 
-Feb 28
+March 5
 : **Presentation**{: .label .label-green }[RFID](#)
   : [Slides](#)
