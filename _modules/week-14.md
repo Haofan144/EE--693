@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-Apri 24
+March 24
 : **Lecture**{: .label .label-purple }[Federated Learning](#)
   : [TBD](#)
 
-Apri 26
+ March 26
 : **TBD**{: .label .label-orange }[Federated Learning](#)
   : [TBD](#)
