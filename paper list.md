@@ -81,16 +81,6 @@ Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3
 
 **Sensys**{: .label .label-purple } [RF-net: A unified meta-learning framework for RF-enabled one-shot human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735), Shuya Ding; Zhe Chen; Tianyue Zheng; Jun Luo; in Proc. of ACM Sensys 2020. **Covered**{: .label .label-yellow }
 
-**ICNP**{: .label .label-purple } [Machine Learning at the Network Edge for Automated Home Intrusion Monitoring](https://drive.google.com/file/d/1USCMvk6E4FiRpkcFWAHAv6N0fqthrAsI/view?usp=sharing), Aditya Dhakal, K.K. Ramakrishnan, in Proc. of IEEE ICNP 2017. 
-
-
-
-### Vehicular Systems
-
-**NSDI**{: .label .label-purple } [VILAM: Infrastructure-assisted 3D Visual Localization and Mapping for Autonomous Driving](https://drive.google.com/file/d/1ams097St7vz8yiBtieiklWbmASpe7Mgx/view?usp=sharing), J. Cui, et al., in Proc. of NSDI 2024. 
-
-**Sensys**{: .label .label-purple } [Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication](https://drive.google.com/file/d/1ue95cTMNF7dJpo37N-hRJ8ox3RX4Z7me/view?usp=sharing), Tong, Panrong, et al, in Proc. of ACM Sensys, 2024.
-
 
 ### Others
 
@@ -101,6 +91,15 @@ Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3
 **S&P**{: .label .label-purple } [Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types](https://drive.google.com/file/d/1e2dvjO-2oiW-spTknJOkkew2oDkjGu-8/view?usp=sharing), J. Han, et al., in Proc. of IEEE S&P, 2018.
 
 **Sensys**{: .label .label-purple } [Secure Sharing of Partially Homomorphic Encrypted IoT Data](https://drive.google.com/file/d/1hIvwbzARVqKsUgBLP0tZNbRrXhZ69iQH/view?usp=sharing), Hossein Shafagh, Anwar Hithnawi, Lukas Burkhalter, Pascal Fischli and Simon Duquennoy,  in Proc. of ACM Sensys 2017. 
+
+
+## Advanced Topics in IoT
+
+## Vehicular Systems
+
+**NSDI**{: .label .label-purple } [VILAM: Infrastructure-assisted 3D Visual Localization and Mapping for Autonomous Driving](https://drive.google.com/file/d/1ams097St7vz8yiBtieiklWbmASpe7Mgx/view?usp=sharing), J. Cui, et al., in Proc. of NSDI 2024. 
+
+**Sensys**{: .label .label-purple } [Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication](https://drive.google.com/file/d/1ue95cTMNF7dJpo37N-hRJ8ox3RX4Z7me/view?usp=sharing), Tong, Panrong, et al, in Proc. of ACM Sensys, 2024.
 
 ## LLMs and Mobile AI
 
