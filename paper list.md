@@ -85,11 +85,11 @@ Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3
 
 
 
-### Connected Vehicles
+### Vehicular Systems
 
-**ICNP**{: .label .label-purple } [A Multiple Vehicle Sensing Approach for Collision Avoidance in Progressively Deployed Vehicle Networks](https://drive.google.com/file/d/1_Vhmt5BFJxw_9hncXO3RVIzQiM4RAzH3/view?usp=sharing), Y. Gao, et al., in Proc. of IEEE ICNP 2017. 
+**NSDI**{: .label .label-purple } [VILAM: Infrastructure-assisted 3D Visual Localization and Mapping for Autonomous Driving](https://drive.google.com/file/d/1ams097St7vz8yiBtieiklWbmASpe7Mgx/view?usp=sharing), J. Cui, et al., in Proc. of NSDI 2024. 
 
-**Mobicom**{: .label .label-purple } [Large-scale vehicle trajectory reconstruction with camera sensing network](https://dl.acm.org/doi/pdf/10.1145/3447993.3448617), Tong, Panrong, et al, in Proc. of ACM Mobicom, 2021.
+**Sensys**{: .label .label-purple } [Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication](https://drive.google.com/file/d/1ue95cTMNF7dJpo37N-hRJ8ox3RX4Z7me/view?usp=sharing), Tong, Panrong, et al, in Proc. of ACM Sensys, 2024.
 
 
 ### Others
