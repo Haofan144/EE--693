@@ -90,8 +90,6 @@ Estimation through Signal Augmentation](https://dl.acm.org/doi/10.1145/3570361.3
 
 **S&P**{: .label .label-purple } [Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types](https://drive.google.com/file/d/1e2dvjO-2oiW-spTknJOkkew2oDkjGu-8/view?usp=sharing), J. Han, et al., in Proc. of IEEE S&P, 2018.
 
-**Sensys**{: .label .label-purple } [Secure Sharing of Partially Homomorphic Encrypted IoT Data](https://drive.google.com/file/d/1hIvwbzARVqKsUgBLP0tZNbRrXhZ69iQH/view?usp=sharing), Hossein Shafagh, Anwar Hithnawi, Lukas Burkhalter, Pascal Fischli and Simon Duquennoy,  in Proc. of ACM Sensys 2017. 
-
 
 ## Advanced Topics in IoT
 
