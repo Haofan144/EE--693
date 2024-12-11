@@ -12,4 +12,4 @@ March 10
 
 March 12
 : **Presentation**{: .label .label-blue }[TBD](#)
-  :NA
+  :  NA
