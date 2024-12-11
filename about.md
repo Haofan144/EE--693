@@ -58,6 +58,8 @@ Each lecture will have one or two assigned readings, which we will all read prio
 
 Submit [hard copy](#) of your reading reports before every paper presentation. e.g., we will talk about "Sensor data collection and aggregation" on week 3, if you want to write a review for “Sparse Data Aggregation in Sensor Networks”, you should submit it before the class.
 
+**Attention: ChatGPT is not allowed to use for report writing ! Cheating in any part of the course may lead to failing the course.**
+
 ## In-class Presentation
 
 Each student will also be assigned one paper to present to the class during the semester. The presentation should roughly be 45 minutes. Keep the following questions in mind to help you structure your presentation:
