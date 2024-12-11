@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-Feb 19
-: **Holiday**{: .label .label-yellow}[Non-instructional day](#)
+Feb 24
+: **TDB**{: .label .label-blue }[TBD](#)
   : NA
 
-Feb 21
+Feb 26
 : **TDB**{: .label .label-blue }[TBD](#)
   : NA
