@@ -7,9 +7,9 @@ Date
   : Materials
 
 March 17
-: **TDB**{: .label .label-blue }[TBD](#)
+: **Holiday**{: .label .label-yellow}[Non-instructional day](#)
   : NA
 
 March 19
-: **TDB**{: .label .label-blue }[TBD](#)
+: **Holiday**{: .label .label-yellow}[Non-instructional day](#)
   : NA
