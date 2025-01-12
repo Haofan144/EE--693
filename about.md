@@ -18,13 +18,13 @@ description: >-
 ---
 **Instructor:** Haofan Cai (<haofanc@hawaii.edu>), Office: Holmes Hall 481
 
-**Classroom:** TBD
+**Classroom:** SAKAM B309
 
 **Class meeting time:** MonWed 10:30AM-11:45PM
 
 **Office hours:** MonWed 12:00-1:00pm or by appointment
 
-**Teaching Assistants:** TBD
+**Teaching Assistants:** NA
 
 ## Course Description
 
