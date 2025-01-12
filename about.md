@@ -56,7 +56,7 @@ Krishnamurthy Raghunandan, [Introduction to Wireless Communications and Networks
 
 Each lecture will have one or two assigned readings, which we will all read prior to the class. All students are expected to have thoroughly read the paper, and come to class ready to discuss them in detail. This is essential to get the most out of the class!
 
-Submit [hard copy](#) of your reading reports before every paper presentation. e.g., we will talk about "Sensor data collection and aggregation" on week 3, if you want to write a review for “Sparse Data Aggregation in Sensor Networks”, you should submit it before the class.
+Submit your reading reports before every paper presentation. e.g., we will talk about "Sensor data collection and aggregation" on week 3, if you want to write a review for “Sparse Data Aggregation in Sensor Networks”, you should submit it before the class.
 
 **Attention: ChatGPT is not allowed to use for report writing ! Cheating in any part of the course may lead to failing the course.**
 
