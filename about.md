@@ -80,7 +80,7 @@ The research project is a core component of the course. It is OK (and often a go
 
 The project milestones and rough timeline are as follows:
 
-- Proposal (1 page): March 6
+- Proposal (1 page): March 5
 
 - Final Report: April 24
 
