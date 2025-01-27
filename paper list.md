@@ -18,7 +18,7 @@ description: Listing of course modules and topics.
 
 **Sensys**{: .label .label-purple } [Collection Tree Protocol](https://drive.google.com/file/d/1lE4w6TdNJOU7_-0ZMznsa47vE2zaN5sx/view?usp=sharing), Omprakash Gnawali, Rodrigo Fonseca, Kyle Jamieson, David Moss, and Philip Levis, in Proc. of ACM Sensys 2009.
 
-**Mobicom**{: .label .label-purple }  [GPSR: Greedy Perimeter Stateless Routing for Wireless Networks](https://drive.google.com/file/d/139YQJ6YxIn_dDxdhYczZ3-DZm_gqhsoW/view?usp=sharing), Karp and Kung, in Proc. of ACM Mobicom 2000.  **Covered**{: .label .label-yellow }
+**Mobicom**{: .label .label-purple }  [GPSR: Greedy Perimeter Stateless Routing for Wireless Networks](https://www.eecs.harvard.edu/~htk/publication/2000-mobi-karp-kung.pdf), Karp and Kung, in Proc. of ACM Mobicom 2000.  **Covered**{: .label .label-yellow }
 
  
 
