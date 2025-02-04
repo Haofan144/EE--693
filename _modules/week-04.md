@@ -12,4 +12,4 @@ Feb 3
 
 Feb 5
 : **Lecture**{: .label .label-purple }[WiFi](#)
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1UdWJOICm0bQWj5-Eit-t7cK6R1P5JiWlOgVyzcznC6c/edit?usp=sharing)
