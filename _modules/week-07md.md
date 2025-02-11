@@ -7,7 +7,7 @@ Date
   : Materials
 
 Feb 24
-: **Lecture**{: .label .label-purple }[FMCW](#)
+: **Lecture**{: .label .label-purple }[mmWave: FMCW](#)
   : [Slides](#)
 
 Feb 26
