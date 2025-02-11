@@ -1,5 +1,5 @@
 ---
-title: Week 12
+title: Week 11
 ---
 
 Date
@@ -7,9 +7,9 @@ Date
   : Materials
 
 March 31
-: **Lecture**{: .label .label-purple }[Federated Learning](#)
+: **Presentation**{: .label .label-green }[Shayla Sharmin Urmi](#)
   : [TBD](#)
 
 Apri 2
-: **TBD**{: .label .label-orange }[Federated Learning](#)
+: **Presentation**{: .label .label-green }[Denny Landika](#)
   : [TBD](#)
