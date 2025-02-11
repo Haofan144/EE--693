@@ -47,7 +47,7 @@ description: Listing of course modules and topics.
 
 ## Security 
 
-**CCS**{: .label .label-purple } [Instant and Robust Authentication and Key Agreement among Mobile Devices](https://dl.acm.org/doi/10.1145/2976749.2978298), Wei Xi, et al, in Proc of ACM CCS 2016.
+**CCS**{: .label .label-purple } [Instant and Robust Authentication and Key Agreement among Mobile Devices](https://dl.acm.org/doi/10.1145/2976749.2978298), Wei Xi, et al, in Proc of ACM CCS 2016. **Covered**{: .label .label-yellow }
 
 **ToN**{: .label .label-purple } [Scalable Industry Data Access Control in RFID-Enabled Supply Chain](https://ieeexplore.ieee.org/document/7442163), Saiyu Qi, et al., in Trans. of IEEE/ACM ToN, 2016. **Covered**{: .label .label-yellow }
 
