@@ -7,9 +7,10 @@ Date
   : Materials
 
 March 31
-: **Lecture**{: .label .label-purple }[LLMs and Mobile AI](#)
+: **Lecture**{: .label .label-purple }[Federated Learning](#)
   : [TBD](#)
 
- Apri 2
-: **Presentation**{: .label .label-green }[yizhu Wen](#)
+Apri 2
+: **TBD**{: .label .label-orange }[Federated Learning](#)
   : [TBD](#)
+
