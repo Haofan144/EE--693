@@ -7,9 +7,9 @@ Date
   : Materials
 
 March 3
-: **Lecture**{: .label .label-purple }[RFID](#)
+: **Lecture**{: .label .label-purple }[IoT Applications: RFID](#)
   : [Slides](#)
 
 March 5
-: **Presentation**{: .label .label-green }[RFID](#)
+: **Presentation**{: .label .label-green }[IoT Applications: Fingerprinting](#)
   : [Slides](#)
