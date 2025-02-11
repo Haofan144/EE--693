@@ -7,9 +7,9 @@ Date
   : Materials
 
 Feb 24
-: **TDB**{: .label .label-blue }[TBD](#)
-  : NA
+: **Lecture**{: .label .label-purple }[FMCW](#)
+  : [Slides](#)
 
 Feb 26
-: **TDB**{: .label .label-blue }[TBD](#)
-  : NA
+: **Lecture**{: .label .label-purple }[mmWave](#)
+  : [Slides](#)
