@@ -1,15 +1,15 @@
 ---
-title: Week 11
+title: Week 12
 ---
 
 Date
 : Topic
   : Materials
 
-March 24
+March 31
 : **Lecture**{: .label .label-purple }[Federated Learning](#)
   : [TBD](#)
 
- March 26
+Apri 2
 : **TBD**{: .label .label-orange }[Federated Learning](#)
   : [TBD](#)
