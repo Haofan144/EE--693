@@ -7,10 +7,10 @@ Date
   : Materials
 
 March 31
-: **Lecture**{: .label .label-purple }[Federated Learning](#)
+: **Presentation**{: .label .label-green }[Adewale Adegboyega](#)
   : [TBD](#)
 
 Apri 2
-: **TBD**{: .label .label-orange }[Federated Learning](#)
+: **Presentation**{: .label .label-green }[Xiaokang Chen](#)
   : [TBD](#)
 
