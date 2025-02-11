@@ -11,6 +11,6 @@ Apri 7
   : [TBD](#)
 
 Apri 9
-: **Presentation**{: .label .label-green }[yizhu Wen](#)
+: **Presentation**{: .label .label-green }[Yizhu Wen](#)
   : [TBD](#)
 
