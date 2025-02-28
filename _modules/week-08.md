@@ -7,9 +7,9 @@ Date
   : Materials
 
 March 3
-: **Lecture**{: .label .label-purple }[Wireless Localization](#)
+: **Lecture**{: .label .label-purple }[IoT Applications: Wireless Localization](#)
   : [Slides](#)
 
 March 5
-: **Presentation**{: .label .label-green }[IoT Applications: Fingerprinting](#)
+: **Presentation**{: .label .label-green }[IoT Applications: Wireless Sensing](#)
   : [Slides](#)
