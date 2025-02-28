@@ -11,5 +11,5 @@ Feb 24
   : [Slides](#)
 
 Feb 26
-: **Lecture**{: .label .label-purple }[Fingerprinting in Wireless](#)
+: **Presentation**{: .label .label-green }[Fingerprinting in Wireless](#)
   : [Slides](#)
