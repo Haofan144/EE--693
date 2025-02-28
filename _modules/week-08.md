@@ -7,7 +7,7 @@ Date
   : Materials
 
 March 3
-: **Lecture**{: .label .label-purple }[IoT Applications: RFID](#)
+: **Lecture**{: .label .label-purple }[Wireless Localization](#)
   : [Slides](#)
 
 March 5
