@@ -6,11 +6,11 @@ Date
 : Topic
   : Materials
 
-Apri 7
+Apri 14
 : **Lecture**{: .label .label-purple }[LLMs and Mobile AI](#)
   : [TBD](#)
 
-Apri 9
+Apri 16
 : **Presentation**{: .label .label-green }[Yizhu Wen](#)
   : [TBD](#)
 
