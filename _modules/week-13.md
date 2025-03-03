@@ -7,9 +7,9 @@ Date
   : Materials
 
 Apri 7
-: **Lecture**{: .label .label-purple }[Federated Learning](#)
+: **Presentation**{: .label .label-green }[Matthew Matsuo](#)
   : [TBD](#)
 
 Apri 9
-: **TBD**{: .label .label-orange }[Federated Learning](#)
+: **Lecture**{: .label .label-purple }[Federated Learning](#)
   : [TBD](#)
