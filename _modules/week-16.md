@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-Apri 21
-: **Presentation**{: .label .label-green }[Mrinmoy Modak](#)
+Apri 28
+: **Presentation**{: .label .label-green }[Adewale Adegboyega](#)
   : TBD
 
-Apri 23
+Apri 30
 : **Presentation**{: .label .label-green }[Denny Landika](#)
   : TBD
