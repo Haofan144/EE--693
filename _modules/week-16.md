@@ -11,5 +11,5 @@ Apri 28
   : TBD
 
 Apri 30
-: **Presentation**{: .label .label-green }[Denny Landika](#)
+: **Lecture**{: .label .label-purple }[5G](#)
   : TBD
