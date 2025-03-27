@@ -7,7 +7,7 @@ Date
   : Materials
 
 March 31
-: **Presentation**{: .label .label-green }[Adewale Adegboyega](#)
+: **Lecture**{: .label .label-purple }[Wireless Sensing](#)
   : [TBD](#)
 
 Apri 2
