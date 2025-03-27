@@ -11,5 +11,5 @@ Apri 21
   : TBD
 
 Apri 23
-: **Presentation**{: .label .label-purple }[Adewale Adegboyega](#)
+: **Presentation**{: .label .label-purple }[Denny Landika](#)
   : TBD
