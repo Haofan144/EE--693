@@ -58,7 +58,7 @@ Each lecture will have one or two assigned readings, which we will all read prio
 
 Submit your reading reports before every paper presentation. e.g., we will talk about "Sensor data collection and aggregation" on week 3, if you want to write a review for “Sparse Data Aggregation in Sensor Networks”, you should submit it before the class.
 
-**Attention: ChatGPT is not allowed to use for report writing ! Cheating in any part of the course may lead to failing the course.**
+**Attention: ChatGPT and other AI tools are not allowed to use for report writing ! Cheating in any part of the course may lead to failing the course.**
 
 ## In-class Presentation
 
@@ -80,9 +80,9 @@ The research project is a core component of the course. It is OK (and often a go
 
 The project milestones and rough timeline are as follows:
 
-- Proposal (1 page): March 5
+- Proposal (1 page): March 4
 
-- Final Report: April 24
+- Final Report: April 22
 
 More details about project can be found in [Course Project](../Project) 
 
