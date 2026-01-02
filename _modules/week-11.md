@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-March 24
-: **Presentation**{: .label .label-green }[Shayla Sharmin Urmi](#)
+March 23
+: **Presentation**{: .label .label-green }[TBD](#)
   : [TBD](#)
 
-March 26
-: **Presentation**{: .label .label-green }[Denny Landika](#)
+March 25
+: **Presentation**{: .label .label-green }[TBD](#)
   : [TBD](#)
