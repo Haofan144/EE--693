@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-Feb 24
+Feb 23
 : **Lecture**{: .label .label-purple }[mmWave: FMCW](#)
   : [Slides](#)
 
-Feb 26
+Feb 25
 : **Presentation**{: .label .label-green }[Fingerprinting in Wireless](#)
   : [Slides](#)
