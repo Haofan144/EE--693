@@ -6,11 +6,11 @@ Date
 : Topic
   : Materials
 
-March 31
+March 30
 : **Lecture**{: .label .label-purple }[Wireless Sensing](#)
   : [TBD](#)
 
-Apri 2
-: **Presentation**{: .label .label-green }[Xiaokang Chen](#)
+Apri 1
+: **Presentation**{: .label .label-green }[TBD](#)
   : [TBD](#)
 
