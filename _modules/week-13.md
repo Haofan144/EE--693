@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-Apri 7
-: **Presentation**{: .label .label-green }[Matthew Matsuo](#)
+Apri 6
+: **Presentation**{: .label .label-green }[TBD](#)
   : [TBD](#)
 
-Apri 9
+Apri 8
 : **Lecture**{: .label .label-purple }[Federated Learning](#)
   : [TBD](#)
