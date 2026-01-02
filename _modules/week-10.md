@@ -6,10 +6,10 @@ Date
 : Topic
   : Materials
 
-March 17
+March 16
 : **Holiday**{: .label .label-yellow}[Non-instructional day](#)
   : NA
 
-March 19
+March 18
 : **Holiday**{: .label .label-yellow}[Non-instructional day](#)
   : NA
